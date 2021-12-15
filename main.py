@@ -44,7 +44,7 @@ NGROK_URL = "https://08c3-178-132-253-148.ngrok.io"
 
 SWISH_CALLBACKURL = urljoin(NGROK_URL, "/swish/callback")
 
-SWISH_PAYEEALIAS = "1231181189" # This would be your merchant swish number in production. In test it doesnt matter
+SWISH_PAYEEALIAS = "1231231231" # This would be your merchant swish number in production. In test it doesnt matter
 
 SWISH_ROOTCA = "./CERTIFICATES/Swish_TLS_RootCA.pem"
 SWISH_CERT = ("./CERTIFICATES/Swish_Merchant_TestCertificate_1234679304.pem", "./CERTIFICATES/Swish_Merchant_TestCertificate_1234679304-nopw.key")
