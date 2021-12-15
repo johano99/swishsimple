@@ -10,7 +10,7 @@ def index(request):
 
     SWISH_CALLBACKURL = urljoin(NGROK_URL, "/swish/callback")
 
-    SWISH_PAYEEALIAS = "1234011961" # This would be your merchant swish number in production. In test it doesnt matter
+    SWISH_PAYEEALIAS = "1231231231" # This would be your merchant swish number in production. In test it doesnt matter
 
     SWISH_ROOTCA = "/code/Certificates/Swish_TLS_RootCA.pem"
     SWISH_CERT = ("/code/Certificates/Swish_Merchant_TestCertificate_1234679304.pem", "/code/Certificates/Swish_Merchant_TestCertificate_1234679304-nopw.key")
