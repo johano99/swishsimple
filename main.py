@@ -5,7 +5,6 @@
 #
 # Dependencies: flask , requests
 #
-# by johan@gillbo.se
 #
 import json
 import requests
