@@ -1,4 +1,4 @@
-# Flask/Django application for managing payments with Swedish bank-collaboration application Swish
+# A minimalistic Flask/Django application demonstrating how to manage payments with Swedish bank-collaboration application Swish
 
 ## Setting up a test environment
 
